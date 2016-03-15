@@ -2,6 +2,8 @@
 
 ## Generating a server
 
+A feature of the Swagger Editor (http://editor.swagger.io/) is that it can generate client and server applications in a variety of languages, including node.js.
+
 Once you have pasted the yaml file contents ino the editor select **Generate Server** > **Node.js** and you will be asked to download a zip file containing the server application. Start it by running:
 
     npm install
